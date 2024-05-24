@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388501237026",
+    "project_id": "faiju-fire-d6e45",
+    "storage_bucket": "faiju-fire-d6e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388501237026:android:ce94c279006fcc04f6097b",
+        "android_client_info": {
+          "package_name": "com.example.faiju_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJjWHYY9lc8DJqdUJS6nFCObBJ7UJB2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
